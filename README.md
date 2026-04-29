@@ -28,6 +28,13 @@
 | 👥 익명 커뮤니티 | 사용자 간 고민 공유 및 공감 기능 |
 | 🔄 A/B 테스트 | 전략별 효과성과 사용성에 대한 실험 설계 도입 |
 
+### 1.4. 내 기여 (My Contribution)
+
+- PM / 프론트엔드 역할로 서비스 흐름을 정리하고 주요 화면 구현에 참여했습니다.
+- 상담형 챗봇이 단순 응답 생성에 머무르지 않도록, 감정 탐색과 다음 행동 제안으로 이어지는 대화 흐름을 정리했습니다.
+- CBT, ACT, DBT 관점이 챗봇 응답 전략에 반영될 수 있도록 프롬프트 요구사항과 상담 시나리오를 구조화했습니다.
+- 익명 커뮤니티 기능이 챗봇 경험과 함께 작동하도록 사용자 흐름과 서비스 구조 설계에 기여했습니다.
+
  
 ## 2️⃣ Service
 
@@ -135,7 +142,7 @@
     <td align="center" width="180px"><a href="https://github.com/NongShiN">황찬웅</a></td>
   </tr>
   <tr height="80px">
-    <td align="center" width="180px"><a>프론트엔드 / PM</a></td>
+    <td align="center" width="180px"><a>PM / 프론트엔드 / 챗봇 흐름 설계</a></td>
     <td align="center" width="180px"><a>모델링</a></td>
     <td align="center" width="180px"><a>모델링</a></td>
     <td align="center" width="180px"><a>백엔드</a></td>
